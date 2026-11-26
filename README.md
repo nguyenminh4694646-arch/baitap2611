@@ -1,1 +1,4 @@
 # baitap2611
+Nguyễn Bá Minh
+MSV:24810310278
+lớp:D19CNPM3
