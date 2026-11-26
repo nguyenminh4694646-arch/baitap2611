@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\lập trình.net\BT66\bin\Debug\net10.0-windows\BT66_ATM.exe
+C:\Users\ACER\Documents\lập trình.net\BT66\bin\Debug\net10.0-windows\BT66_ATM.deps.json
+C:\Users\ACER\Documents\lập trình.net\BT66\bin\Debug\net10.0-windows\BT66_ATM.runtimeconfig.json
+C:\Users\ACER\Documents\lập trình.net\BT66\bin\Debug\net10.0-windows\BT66_ATM.dll
+C:\Users\ACER\Documents\lập trình.net\BT66\bin\Debug\net10.0-windows\BT66_ATM.pdb
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66.AssemblyInfo.cs
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66_ATM.dll
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\refint\BT66_ATM.dll
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66_ATM.pdb
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\BT66.genruntimeconfig.cache
+C:\Users\ACER\Documents\lập trình.net\BT66\obj\Debug\net10.0-windows\ref\BT66_ATM.dll
